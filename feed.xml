@@ -6,7 +6,28 @@
   <atom:link href="https://ronleviutoronto.github.io/israel-polls/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Every major published poll for Israel’s 2026 Knesset election, newest first. Built, analyzed and annotated by Ron Levi, University of Toronto, with Claude Code (Anthropic).</description>
   <language>en</language>
-  <lastBuildDate>Sat, 17 Oct 2026 12:00:00 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 18 Oct 2026 12:00:00 GMT</lastBuildDate>
+  <item>
+    <title>Direct Polls - 18 Oct 2026</title>
+    <link>https://israel-polls-2026.pages.dev/</link>
+    <guid isPermaLink="false">poll-direct_polls_2026_10_18</guid>
+    <pubDate>Sun, 18 Oct 2026 12:00:00 GMT</pubDate>
+    <description>Likud 25, Yashar 21, Together 13, Otzma Yehudit 10, The Democrats 9, Joint List (Hadash-Ta'al-Balad) 8, Shas 8, United Torah Judaism 8, Ra'am 6, Religious Zionism-Zehut 6, Yisrael Beiteinu 6 (sums to 120).</description>
+  </item>
+  <item>
+    <title>Kantar - 18 Oct 2026</title>
+    <link>https://israel-polls-2026.pages.dev/</link>
+    <guid isPermaLink="false">poll-kantar_2026_10_18</guid>
+    <pubDate>Sun, 18 Oct 2026 12:00:00 GMT</pubDate>
+    <description>Yashar 23, Likud 21, Together 12, The Democrats 9, Joint List (Hadash-Ta'al-Balad) 8, Otzma Yehudit 8, Shas 8, Yisrael Beiteinu 8, Religious Zionism-Zehut 7, United Torah Judaism 7, Ra'am 5, The Reservists and the Economic Party 4 (sums to 120).</description>
+  </item>
+  <item>
+    <title>Next Data - 18 Oct 2026</title>
+    <link>https://israel-polls-2026.pages.dev/</link>
+    <guid isPermaLink="false">poll-next_data_2026_10_18</guid>
+    <pubDate>Sun, 18 Oct 2026 12:00:00 GMT</pubDate>
+    <description>Likud 29, Yashar 22, Shas 10, Together 10, The Democrats 8, United Torah Judaism 8, Joint List (Hadash-Ta'al-Balad) 7, Otzma Yehudit 7, Religious Zionism-Zehut 7, Ra'am 6, Yisrael Beiteinu 6 (sums to 120).</description>
+  </item>
   <item>
     <title>Kantar - 15 Oct 2026</title>
     <link>https://israel-polls-2026.pages.dev/</link>
@@ -125,27 +146,6 @@
     <guid isPermaLink="false">poll-next_data_2026_10_07</guid>
     <pubDate>Wed, 07 Oct 2026 12:00:00 GMT</pubDate>
     <description>Likud 31, Yashar 23, Shas 10, The Democrats 9, Otzma Yehudit 8, Together 8, United Torah Judaism 8, Joint List (Hadash-Ta'al-Balad) 7, Religious Zionism-Zehut 6, Ra'am 5, Yisrael Beiteinu 5 (sums to 120).</description>
-  </item>
-  <item>
-    <title>Maagar Mochot - 6 Oct 2026</title>
-    <link>https://israel-polls-2026.pages.dev/</link>
-    <guid isPermaLink="false">poll-maagar_mochot_2026_10_06</guid>
-    <pubDate>Tue, 06 Oct 2026 12:00:00 GMT</pubDate>
-    <description>Yashar 23, Likud 21, Together 14, The Democrats 9, Shas 8, Joint List (Hadash-Ta'al-Balad) 7, Otzma Yehudit 7, Religious Zionism-Zehut 7, United Torah Judaism 7, Yisrael Beiteinu 7, Ra'am 6, Amcha Israel 4 (sums to 120).</description>
-  </item>
-  <item>
-    <title>Midgam - 5 Oct 2026</title>
-    <link>https://israel-polls-2026.pages.dev/</link>
-    <guid isPermaLink="false">poll-midgam_2026_10_05</guid>
-    <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
-    <description>Yashar 23, Likud 21, Together 13, The Democrats 9, Yisrael Beiteinu 9, Joint List (Hadash-Ta'al-Balad) 8, United Torah Judaism 8, Otzma Yehudit 7, Shas 7, Religious Zionism-Zehut 6, Ra'am 5, The Reservists and the Economic Party 4 (sums to 120).</description>
-  </item>
-  <item>
-    <title>Kantar - 4 Oct 2026</title>
-    <link>https://israel-polls-2026.pages.dev/</link>
-    <guid isPermaLink="false">poll-kantar_2026_10_04</guid>
-    <pubDate>Sun, 04 Oct 2026 12:00:00 GMT</pubDate>
-    <description>Yashar 23, Likud 21, Together 12, Yisrael Beiteinu 9, Joint List (Hadash-Ta'al-Balad) 8, Otzma Yehudit 8, Shas 8, The Democrats 8, United Torah Judaism 8, Religious Zionism-Zehut 6, Ra'am 5, The Reservists and the Economic Party 4 (sums to 120).</description>
   </item>
 </channel>
 </rss>
