@@ -8,11 +8,18 @@
   <language>en</language>
   <lastBuildDate>Tue, 20 Oct 2026 12:00:00 GMT</lastBuildDate>
   <item>
-    <title>Lazar - 20 Oct 2026</title>
+    <title>Direct Polls - 20 Oct 2026</title>
     <link>https://israel-polls-2026.pages.dev/</link>
-    <guid isPermaLink="false">poll-lazar_2026_10_20</guid>
+    <guid isPermaLink="false">poll-direct_polls_2026_10_20</guid>
     <pubDate>Tue, 20 Oct 2026 12:00:00 GMT</pubDate>
-    <description>Yashar 23, Likud 19, Together 14, The Democrats 9, Joint List (Hadash-Ta'al-Balad) 8, Otzma Yehudit 8, Shas 8, Yisrael Beiteinu 8, United Torah Judaism 7, Ra'am 6, Religious Zionism-Zehut 6, The Reservists and the Economic Party 4 (sums to 120).</description>
+    <description>Likud 26, Yashar 20, Together 12, Otzma Yehudit 9, The Democrats 9, Joint List (Hadash-Ta'al-Balad) 8, Shas 8, United Torah Judaism 8, Religious Zionism-Zehut 7, Yisrael Beiteinu 7, Ra'am 6 (sums to 120).</description>
+  </item>
+  <item>
+    <title>Next Data - 20 Oct 2026</title>
+    <link>https://israel-polls-2026.pages.dev/</link>
+    <guid isPermaLink="false">poll-next_data_2026_10_20</guid>
+    <pubDate>Tue, 20 Oct 2026 12:00:00 GMT</pubDate>
+    <description>Likud 30, Yashar 20, Shas 9, The Democrats 9, Together 9, Joint List (Hadash-Ta'al-Balad) 8, Otzma Yehudit 8, United Torah Judaism 8, Religious Zionism-Zehut 7, Ra'am 6, Yisrael Beiteinu 6 (sums to 120).</description>
   </item>
   <item>
     <title>HaMadad - 19 Oct 2026</title>
@@ -20,6 +27,13 @@
     <guid isPermaLink="false">poll-hamadad_2026_10_19</guid>
     <pubDate>Mon, 19 Oct 2026 12:00:00 GMT</pubDate>
     <description>Yashar 20, Likud 18, Together 14, Joint List (Hadash-Ta'al-Balad) 9, The Democrats 9, Yisrael Beiteinu 8, Otzma Yehudit 7, Religious Zionism-Zehut 7, Shas 7, United Torah Judaism 7, Ra'am 6, Amcha Israel 4, The Reservists and the Economic Party 4 (sums to 120).</description>
+  </item>
+  <item>
+    <title>Lazar - 19 Oct 2026</title>
+    <link>https://israel-polls-2026.pages.dev/</link>
+    <guid isPermaLink="false">poll-lazar_2026_10_19</guid>
+    <pubDate>Mon, 19 Oct 2026 12:00:00 GMT</pubDate>
+    <description>Yashar 23, Likud 19, Together 14, The Democrats 9, Joint List (Hadash-Ta'al-Balad) 8, Otzma Yehudit 8, Shas 8, Yisrael Beiteinu 8, United Torah Judaism 7, Ra'am 6, Religious Zionism-Zehut 6, The Reservists and the Economic Party 4 (sums to 120).</description>
   </item>
   <item>
     <title>Midgam - 19 Oct 2026</title>
@@ -132,20 +146,6 @@
     <guid isPermaLink="false">poll-kantar_2026_10_11</guid>
     <pubDate>Sun, 11 Oct 2026 12:00:00 GMT</pubDate>
     <description>Yashar 22, Likud 20, Together 12, Otzma Yehudit 9, Joint List (Hadash-Ta'al-Balad) 8, The Democrats 8, United Torah Judaism 8, Yisrael Beiteinu 8, Shas 7, Ra'am 5, Religious Zionism-Zehut 5, Amcha Israel 4, The Reservists and the Economic Party 4 (sums to 120).</description>
-  </item>
-  <item>
-    <title>Kantar - 8 Oct 2026</title>
-    <link>https://israel-polls-2026.pages.dev/</link>
-    <guid isPermaLink="false">poll-kantar_2026_10_08</guid>
-    <pubDate>Thu, 08 Oct 2026 12:00:00 GMT</pubDate>
-    <description>Yashar 22, Likud 21, Together 13, Otzma Yehudit 9, Joint List (Hadash-Ta'al-Balad) 8, The Democrats 8, United Torah Judaism 8, Yisrael Beiteinu 8, Shas 7, Religious Zionism-Zehut 6, Ra'am 5, The Reservists and the Economic Party 5 (sums to 120).</description>
-  </item>
-  <item>
-    <title>Lazar - 8 Oct 2026</title>
-    <link>https://israel-polls-2026.pages.dev/</link>
-    <guid isPermaLink="false">poll-lazar_2026_10_08</guid>
-    <pubDate>Thu, 08 Oct 2026 12:00:00 GMT</pubDate>
-    <description>Yashar 21, Likud 20, Together 13, The Democrats 9, Yisrael Beiteinu 9, Otzma Yehudit 8, Joint List (Hadash-Ta'al-Balad) 7, Shas 7, United Torah Judaism 7, Religious Zionism-Zehut 6, Ra'am 5, Amcha Israel 4, The Reservists and the Economic Party 4 (sums to 120).</description>
   </item>
 </channel>
 </rss>
