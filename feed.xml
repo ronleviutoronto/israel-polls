@@ -12,7 +12,7 @@
     <link>https://israel-polls-2026.pages.dev/near-the-threshold</link>
     <guid isPermaLink="false">analysis-threshold-2026-10-22</guid>
     <pubDate>Thu, 22 Oct 2026 12:00:00 GMT</pubDate>
-    <description>A party needs at least 3.25% of the vote to win any seats. There were 29 polls between 11 October and 22 October. 8 of them gave Ofer Winter's party (Amcha Israel) 4 seats. The other 21 gave it no seats, because it came in under 3.25%. Hendel and Zelekha's party (the Reservists) got 4 or 5 seats in 18 of the polls and no seats in the other 11. If either party gets less than 3.25% on election day, its votes are left out when the 120 seats are divided, so each party that does get in wins a slightly larger share. Surplus-vote agreements, which let two parties pool their leftover votes, apply only to parties that pass 3.25%. They cannot be assigned to a party that falls below 3.25%. In any event, neither of these two parties has signed one. Either way the Netanyahu bloc stays between 53 and 55 seats and the Change bloc between 50 and 52, short of 61.</description>
+    <description>A party needs at least 3.25% of the vote to win any seats. There were 30 polls between 11 October and 22 October. 8 of them gave Ofer Winter's party (Amcha Israel) 4 seats. The other 22 gave it no seats, because it came in under 3.25%. Hendel and Zelekha's party (the Reservists) got 4 or 5 seats in 18 of the polls and no seats in the other 12. If either party gets less than 3.25% on election day, its votes are left out when the 120 seats are divided, so each party that does get in wins a slightly larger share. Surplus-vote agreements, which let two parties pool their leftover votes, apply only to parties that pass 3.25%. They cannot be assigned to a party that falls below 3.25%. In any event, neither of these two parties has signed one. Either way the Netanyahu bloc stays between 53 and 55 seats and the Change bloc between 50 and 51, short of 61.</description>
   </item>
   <item>
     <title>Kantar - 22 Oct 2026</title>
@@ -48,6 +48,13 @@
     <guid isPermaLink="false">poll-yossi_tatika_2026_10_22</guid>
     <pubDate>Thu, 22 Oct 2026 12:00:00 GMT</pubDate>
     <description>Yashar 23, Likud 21, Together 11, Joint List (Hadash-Ta'al-Balad) 9, Yisrael Beiteinu 9, Otzma Yehudit 8, Shas 8, The Democrats 8, United Torah Judaism 8, Religious Zionism-Zehut 6, Ra'am 5, The Reservists and the Economic Party 4 (sums to 120).</description>
+  </item>
+  <item>
+    <title>DRI Research Institute - 21 Oct 2026</title>
+    <link>https://israel-polls-2026.pages.dev/</link>
+    <guid isPermaLink="false">poll-dri_research_institute_2026_10_21</guid>
+    <pubDate>Wed, 21 Oct 2026 12:00:00 GMT</pubDate>
+    <description>Likud 28, Yashar 23, Religious Zionism-Zehut 9, Together 9, Joint List (Hadash-Ta'al-Balad) 8, Otzma Yehudit 8, Shas 8, The Democrats 8, United Torah Judaism 7, Yisrael Beiteinu 7, Ra'am 5 (sums to 120).</description>
   </item>
   <item>
     <title>HaMadad - 21 Oct 2026</title>
@@ -146,13 +153,6 @@
     <guid isPermaLink="false">poll-kantar_2026_10_15</guid>
     <pubDate>Thu, 15 Oct 2026 12:00:00 GMT</pubDate>
     <description>Yashar 24, Likud 21, Together 12, Joint List (Hadash-Ta'al-Balad) 9, Otzma Yehudit 9, The Democrats 8, Yisrael Beiteinu 8, Shas 7, United Torah Judaism 7, Religious Zionism-Zehut 6, Ra'am 5, The Reservists and the Economic Party 4 (sums to 120).</description>
-  </item>
-  <item>
-    <title>Lazar - 15 Oct 2026</title>
-    <link>https://israel-polls-2026.pages.dev/</link>
-    <guid isPermaLink="false">poll-lazar_2026_10_15</guid>
-    <pubDate>Thu, 15 Oct 2026 12:00:00 GMT</pubDate>
-    <description>Yashar 21, Likud 18, Together 13, The Democrats 9, Joint List (Hadash-Ta'al-Balad) 8, Otzma Yehudit 8, United Torah Judaism 8, Yisrael Beiteinu 8, Shas 7, Ra'am 6, Religious Zionism-Zehut 6, Amcha Israel 4, The Reservists and the Economic Party 4 (sums to 120).</description>
   </item>
 </channel>
 </rss>
